@@ -1,0 +1,77 @@
+const Menu = [
+  {
+    id: 1,
+    image: "images/c6.jpeg",
+    name: "maggi",
+    category: "lunch",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 2,
+    image: "images/c7.jpeg",
+    name: "chicken",
+    category: "breakfast",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 3,
+    image: "images/c8.jpeg",
+    name: "bargar",
+    category: "evening",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+
+  {
+    id: 4,
+    image: "images/app.jpeg",
+    name: "chola",
+    category: "dinner",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 5,
+    image: "images/c1.jpeg",
+    name: "sweet",
+    category: "breakfast",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 6,
+    image: "images/c2.jpeg",
+    name: "mango",
+    category: "evening",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 7,
+    image: "images/c3.jpeg",
+    name: "mango",
+    category: "evening",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 8,
+    image: "images/c4.jpeg",
+    name: "mango",
+    category: "dinner",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+  {
+    id: 9,
+    image: "images/c2.jpeg",
+    name: "mango",
+    category: "evening",
+    price: "34$",
+    description: " this is very testi and big food.",
+  },
+];
+
+export default Menu;
